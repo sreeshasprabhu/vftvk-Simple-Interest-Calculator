@@ -1,4 +1,64 @@
-body {background-color:tan;}
-h1{color:green;}
+
+body 
+{
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
+
+h1
+{
+    color: grey;
+    font-family: verdana;
+}
+
+.maindiv
+{
+    background-color: #ffffff;
+    color: #000000;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.highlight
+{
+        background-color: yellow;
+}
+.contents
+{
+    margin-left: 60px;
+}
+
+
+#years
+{
+    margin-top: 10px;
+}
+
+#footer
+{
+    margin-top: 10px;
+}
+
+.labels
+{
+        width: 120px;
+}
+
+#rate{
+        margin-top: 10px;
+}
+
+#compute {
+        margin-top: 10px;
+}
+
+.foot {
+        margin-top: 10px;
+}
+
 
 
